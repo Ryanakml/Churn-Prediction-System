@@ -1,0 +1,8 @@
+#!/Users/ryanakmalpasya/Documents/[1] BS/[2] Freelance/[3] PROJECTS/:dev:projects:ai: /Telco Customer Churn/myvenv/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
